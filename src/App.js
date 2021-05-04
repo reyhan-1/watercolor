@@ -1,5 +1,4 @@
 import React, {useState} from 'react';
-import background from './comps/background';
 import ImageGrid from './comps/imageGrid';
 import Modal from './comps/Modal';
 
@@ -20,7 +19,6 @@ function App() {
       <ImageGrid setSelectedImg= {setSelectedImg}/>
       {selectedImg && <Modal selectedImg={selectedImg} 
       setSelectedImg={setSelectedImg}/> }
-      <background/>
     </div>
   );
 }

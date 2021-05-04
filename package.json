@@ -10,6 +10,7 @@
     "framer-motion": "^4.1.11",
     "random": "^3.0.6",
     "react": "^16.13.1",
+    "react-animated-text": "^0.1.4",
     "react-dat-gui": "^4.1.1",
     "react-dom": "^16.13.1",
     "react-fluid-animation": "^1.0.1",

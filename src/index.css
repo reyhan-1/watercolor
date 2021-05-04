@@ -33,6 +33,10 @@ body{
   letter-spacing: 10px;
   margin-left: 60px;
 }
+.title h1:hover{
+  font-size:1.3rem;
+}
+
 .title p{
   text-align: right;
   margin-right: 60px;
@@ -103,7 +107,7 @@ label:hover{
   
   margin: 0 auto;
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr  1fr;
   align-items: left;
   grid-gap: 0px;
   padding: 1px 0px;
