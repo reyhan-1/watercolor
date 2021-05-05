@@ -19,8 +19,6 @@ const Modal = ({selectedImg, setSelectedImg}) => {
             initial = {{ y: "3vh" }} //vievport height
             animate={{ y:0}} 
             transition={{ duration: 0.5 }}/>
-
-           
       </motion.div>
    )
 }

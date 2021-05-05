@@ -39,7 +39,7 @@ body{
 
 .title p{
   text-align: right;
-  margin-right: 60px;
+  margin-right: 30px;
   font-size: 0.7rem;
   font-family: "Open Sans";
   color:grey;
@@ -51,6 +51,29 @@ body{
   margin-right: 60px;
   font-size: 2.6rem;
 }
+.title h3{
+  text-align: right;
+  color:#a88718;
+  letter-spacing: 1.5px;
+  margin-left: 60px;
+  margin-right: 60px;
+}
+
+
+.about h1{
+  text-align: center;
+  color:white;
+  letter-spacing: 1.5px;
+}
+
+.about p{
+  text-align: center;
+  color:rgb(185, 183, 183);
+  letter-spacing: 1.5px;
+  font-family: "Open Sans";
+  font-size: 0.7rem;
+}
+
 
 .title a{
   color:gray;
@@ -104,12 +127,11 @@ label:hover{
 
 /* image grid styles */
 .img-grid{
-  
   margin: 0 auto;
   display: grid;
   grid-template-columns: 1fr  1fr;
   align-items: left;
-  grid-gap: 0px;
+  grid-gap: 10px;
   padding: 1px 0px;
 }
 .img-wrap{
@@ -127,8 +149,10 @@ label:hover{
   position:absolute;
   top: 0;
   max-width:80%;
-  max-height: 90%;
+  max-height: 100%;
+  cursor: pointer;
 }
+
 
 /* modal styles */
 .backdrop{

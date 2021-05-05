@@ -1,25 +1,31 @@
+import {
+  BrowserRouter as Router,
+  Switch,
+  Route,
+  Link
+} from "react-router-dom";
 import React, {useState} from 'react';
 import ImageGrid from './comps/imageGrid';
 import Modal from './comps/Modal';
-
 import Title from './comps/Title';
 import UploadForm from './comps/UploadForm';
-
-
 
 function App() {
   const [selectedImg, setSelectedImg] = useState(null);
 
+  
+  return (    
 
-  return (
-    
-    <div className="App">
+    <div className="App" >
+
       <Title/>
        <UploadForm/>
       <ImageGrid setSelectedImg= {setSelectedImg}/>
       {selectedImg && <Modal selectedImg={selectedImg} 
       setSelectedImg={setSelectedImg}/> }
+
     </div>
+ 
   );
 }
 

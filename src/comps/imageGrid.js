@@ -1,12 +1,15 @@
 import React from 'react';
 import useFirestore from '../hooks/useFirestore';
 import { motion } from 'framer-motion';
+import ParticlesBg from 'particles-bg'
+
 
 const ImageGrid = ({setSelectedImg}) => {
    const { docs } = useFirestore('images'); //images is the collection name in db   
    console.log(docs);
 
    return(
+
       <div className="img-grid"> 
          { docs  && docs.map( doc => (
             < motion.div className="img-wrap" key={doc.id}
