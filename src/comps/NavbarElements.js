@@ -4,10 +4,10 @@ import {Link as LinkS} from 'react-scroll'
 
 export const NavMenu = styled.ul`
    display: flex;
-   align-items: right;
+   align-items: center;
    list-style: none;
-   text-align: right;
-   text-decoration: none;
+   text-align: center;
+   margin-left: 35%;
 `
 
 export const NavItem = styled.li`
@@ -18,8 +18,7 @@ export const NavItem = styled.li`
 export const NavLinks = styled(LinkS)`  /*react scroll link*/
    margin-top: 0;
    opacity: 0.7;
-   display: flex;
-   align-items: right;
+   align-items: center;
    text-decoration: none;
    padding: 0 1rem;
    height: 100%;
@@ -30,15 +29,13 @@ export const NavLinks = styled(LinkS)`  /*react scroll link*/
    }
    
    &:hover{
-
       text-decoration: none;
-
       transition: all 0.2 ease-in-out;
-      opacity: 0.7;
-      -webkit-text-stroke: 1px #D4AF37;
+      opacity: 0.7;      
       color: #D4AF37;
-   
    }
 
-   
+   @media screen and (max-width: 480px) {
+   padding: 0.4em;
+   }
 `

@@ -11,14 +11,7 @@ const Title = () => {
   return (
 <>
 <div>
-      <NavMenu>
-        <NavItem>
-          <NavLinks to='about'>About</NavLinks>
-        </NavItem>
-        <NavItem>
-          <NavLinks to='contact'>Contact</NavLinks>
-        </NavItem>
-      </NavMenu>
+
 
     </div>
     <div className="title">
@@ -26,7 +19,6 @@ const Title = () => {
       <h2 >rey on paper</h2>
       <p>“Art washes from the soul the dust of everyday life.” - Pablo Picasso</p>
     </div>
-
     </>
   )
 }
