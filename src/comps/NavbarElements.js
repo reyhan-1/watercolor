@@ -15,7 +15,7 @@ export const NavItem = styled.li`
    text-decoration: none;
 `
 
-export const NavLinks = styled(LinkS)`  /*react scroll link*/
+export const NavLinks = styled(LinkR)`  /*react scroll link*/
    margin-top: 0;
    opacity: 0.7;
    align-items: center;

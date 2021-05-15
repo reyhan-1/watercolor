@@ -179,17 +179,22 @@ label:hover{
 
 .supply h1{
   color:white;
-  text-align: center;
-  letter-spacing: 1.2px;
+  text-align: left;
+  letter-spacing: 1.5px;
   margin-top: 50px;
+  margin-left: 30px;
   font-size: 1rem;
 }
 
 .supply h2{
-  color:rgb(111, 141, 118);
+  color:grey;
   text-align: center;
   letter-spacing: 1.2px;
-  font-size: 1rem;
+  font-size: 0.5rem;
+  font-family: "Open Sans";
+  font-weight:lighter;
+  margin-top: 70px;
+  margin-bottom: 50px;
 }
 
 .supply a{
@@ -202,10 +207,13 @@ label:hover{
 }
 
 .supply p{
-  text-align:center;
+  text-align:left;
   font-size: 0.7rem;
   font-family: "Open Sans";
-  color:white;
+  color:grey;
+  margin-left: 30px;
+  margin-bottom: 0px;
+  max-width: 400px;
 }
 
 div.gallery {

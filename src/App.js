@@ -9,11 +9,15 @@ import Home from "./comps/Home";
 import Navbar from "./comps/Navbar";
 import About from "./comps/About";
 
+const links = [{ title: 'Logout', pathName: '/logout', isButton: true }];
+
+
 function App() {  
   return (    
     <Router>
       <Navbar/>
       <Home/>
+      <About/>
     </Router>
   );
 }
