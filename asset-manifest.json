@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/sketches/static/css/main.eb5ea88d.chunk.css",
+    "main.js": "/sketches/static/js/main.23c938a5.chunk.js",
+    "main.js.map": "/sketches/static/js/main.23c938a5.chunk.js.map",
+    "runtime-main.js": "/sketches/static/js/runtime-main.ee6c3580.js",
+    "runtime-main.js.map": "/sketches/static/js/runtime-main.ee6c3580.js.map",
+    "static/js/2.2e1f9d78.chunk.js": "/sketches/static/js/2.2e1f9d78.chunk.js",
+    "static/js/2.2e1f9d78.chunk.js.map": "/sketches/static/js/2.2e1f9d78.chunk.js.map",
+    "index.html": "/sketches/index.html",
+    "precache-manifest.cf7cf655ce41202a85c3ca20c79d2cc7.js": "/sketches/precache-manifest.cf7cf655ce41202a85c3ca20c79d2cc7.js",
+    "service-worker.js": "/sketches/service-worker.js",
+    "static/css/main.eb5ea88d.chunk.css.map": "/sketches/static/css/main.eb5ea88d.chunk.css.map",
+    "static/js/2.2e1f9d78.chunk.js.LICENSE.txt": "/sketches/static/js/2.2e1f9d78.chunk.js.LICENSE.txt",
+    "static/media/brushes.JPG": "/sketches/static/media/brushes.25cc4995.JPG",
+    "static/media/morepaint.JPG": "/sketches/static/media/morepaint.0f50fd9f.JPG",
+    "static/media/onthego.JPG": "/sketches/static/media/onthego.74fe9f35.JPG",
+    "static/media/paper.JPG": "/sketches/static/media/paper.a9348f82.JPG",
+    "static/media/pens.JPG": "/sketches/static/media/pens.261318f5.JPG",
+    "static/media/set.JPG": "/sketches/static/media/set.47d83111.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee6c3580.js",
+    "static/js/2.2e1f9d78.chunk.js",
+    "static/css/main.eb5ea88d.chunk.css",
+    "static/js/main.23c938a5.chunk.js"
+  ]
+}
