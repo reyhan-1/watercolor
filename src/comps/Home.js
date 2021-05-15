@@ -18,7 +18,7 @@ import About from "./About";
    return (    
       
      <div className="App" >
-        <UploadForm/>
+      
        <ImageGrid setSelectedImg= {setSelectedImg}/>
        {selectedImg && <Modal selectedImg={selectedImg} 
        setSelectedImg={setSelectedImg}/> }
