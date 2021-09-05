@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "da5e1801b563ca999a5a6e6ddf7782b1",
+    "revision": "b0cb8b1a554518c10fde5412bdb75c70",
     "url": "/watercolor/index.html"
   },
   {
-    "revision": "a1923cd71ec1d79c89d3",
+    "revision": "646bc4c3110d7dbe12a8",
     "url": "/watercolor/static/css/main.eb5ea88d.chunk.css"
   },
   {
-    "revision": "02292b4afbaeab75decb",
-    "url": "/watercolor/static/js/2.dafbc06d.chunk.js"
+    "revision": "623c228f602806933dd1",
+    "url": "/watercolor/static/js/2.f74dbc63.chunk.js"
   },
   {
     "revision": "78ed1aa1ad27494b6a8d181ba26d0ea0",
-    "url": "/watercolor/static/js/2.dafbc06d.chunk.js.LICENSE.txt"
+    "url": "/watercolor/static/js/2.f74dbc63.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a1923cd71ec1d79c89d3",
-    "url": "/watercolor/static/js/main.23c938a5.chunk.js"
+    "revision": "646bc4c3110d7dbe12a8",
+    "url": "/watercolor/static/js/main.94eca6b6.chunk.js"
   },
   {
     "revision": "2223abac90fe9e427128",
