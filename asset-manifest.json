@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/watercolor/static/css/main.eb5ea88d.chunk.css",
-    "main.js": "/watercolor/static/js/main.94eca6b6.chunk.js",
-    "main.js.map": "/watercolor/static/js/main.94eca6b6.chunk.js.map",
+    "main.js": "/watercolor/static/js/main.9fc982ed.chunk.js",
+    "main.js.map": "/watercolor/static/js/main.9fc982ed.chunk.js.map",
     "runtime-main.js": "/watercolor/static/js/runtime-main.7cdbaa5d.js",
     "runtime-main.js.map": "/watercolor/static/js/runtime-main.7cdbaa5d.js.map",
     "static/js/2.f74dbc63.chunk.js": "/watercolor/static/js/2.f74dbc63.chunk.js",
     "static/js/2.f74dbc63.chunk.js.map": "/watercolor/static/js/2.f74dbc63.chunk.js.map",
     "index.html": "/watercolor/index.html",
-    "precache-manifest.13bb3075f73852b18e2b685304c8e8e5.js": "/watercolor/precache-manifest.13bb3075f73852b18e2b685304c8e8e5.js",
+    "precache-manifest.349199e29a5c125017df1906f8fdd278.js": "/watercolor/precache-manifest.349199e29a5c125017df1906f8fdd278.js",
     "service-worker.js": "/watercolor/service-worker.js",
     "static/css/main.eb5ea88d.chunk.css.map": "/watercolor/static/css/main.eb5ea88d.chunk.css.map",
     "static/js/2.f74dbc63.chunk.js.LICENSE.txt": "/watercolor/static/js/2.f74dbc63.chunk.js.LICENSE.txt",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.7cdbaa5d.js",
     "static/js/2.f74dbc63.chunk.js",
     "static/css/main.eb5ea88d.chunk.css",
-    "static/js/main.94eca6b6.chunk.js"
+    "static/js/main.9fc982ed.chunk.js"
   ]
 }
